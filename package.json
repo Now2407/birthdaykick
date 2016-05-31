@@ -1,0 +1,15 @@
+{
+  "name": "bapp",
+  "version": "1.0.0",
+  "description": "a service for birthday kick",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Noah Marriott",
+  "license": "ISC",
+  "dependencies": {
+    "liquid-node": "^2.6.1",
+    "nodemailer": "^0.7.1"
+  }
+}
